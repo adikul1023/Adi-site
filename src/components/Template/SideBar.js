@@ -13,16 +13,15 @@ const SideBar = () => (
       </Link>
       <header>
         <h2>Brandon Donelan</h2>
-        <p><a href="mailto:brandon.donelan@outlook.com">brandon.donelan@outlook.com</a></p>
+        <p><a href="mailto:adi@adi-kulkarni.in">adi@adi-kulkarni.in</a></p>
       </header>
     </section>
 
     <section className="blurb">
       <h2>About</h2>
-      <p>Hi, I&apos;m Brandon. I like data.
-        I am an <a href="https://osu.edu/">Ohio State University</a> graduate, currently working
-        as a Data Engineering Associate Manager at <a href="https://www.accenture.com/">Accenture</a> & formally
-        the Director of Data Engineering & Analytics for startup, <a href="https://www.shakeitupdice.com/">Deck of Dice Gaming</a>
+      <p>Hi, I&apos;m Michael. I am a{' '}
+        <a href="https://vitbhopal.ac.in/">VIT Bhopal University</a> student, persuing BTech in Cyber Security & Digital Forensics, a web devloper and the CTO of{' '}
+        <a href="https://astronauticinstitute.com">Astronautic Inst.</a>.
       </p>
       <ul className="actions">
         <li>
@@ -33,7 +32,7 @@ const SideBar = () => (
 
     <section id="footer">
       <ContactIcons />
-      <p className="copyright">&copy; Brandon Donelan <Link to="/">brandon-donelan.com</Link>.</p>
+      <p className="copyright">&copy; Adi Kulkarni <Link to="/">adi-kulkarni.in</Link>.</p>
     </section>
   </section>
 );
