@@ -5,13 +5,14 @@ import Main from '../layouts/Main';
 
 const Index = () => (
   <Main
-    description={"Brandon Donelan's personal website. Ohio based Data Engineering & Analytics Professional"}
+    description={"Adi Kulkarni's personal website. Nagpur, IN based VIT Bhopal University student, "
+      + ' persuing BTech Cybersecurity, and CTO Astronautic Institute.'"}
   >
     <article className="post" id="index">
       <header>
         <div className="title">
           <h2 data-testid="heading"><Link to="/">About this site</Link></h2>
-          <p> Welcome to Brandon Donelan&apos;s Personal Website! </p>
+          <p> Welcome to Adi Kulkarni;s Personal Website! </p>
         </div>
       </header>
       <p> Welcome to my website. Please feel free to read more <Link to="/about">about me</Link>,
