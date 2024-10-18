@@ -16,12 +16,12 @@ const data = [
   {
     label: 'Open github issues',
     key: 'open_issues_count',
-    link: 'https://github.com/Brontomerus/brandons-site/issues',
+    link: 'https://github.com/adikul1023/adi-site/issues',
   },
   {
     label: 'Last updated at',
     key: 'pushed_at',
-    link: 'https://github.com/Brontomerus/brandons-site/commits',
+    link: 'https://github.com/adikul1023/adi-site/commits',
     format: (x) => dayjs(x).format('MMMM DD, YYYY'),
   },
   {
