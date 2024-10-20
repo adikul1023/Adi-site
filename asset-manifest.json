@@ -1,10 +1,10 @@
 {
   "files": {
     "main.css": "/adi-kulkarni.in/static/css/main.8dc9cfff.css",
-    "main.js": "/adi-kulkarni.in/static/js/main.196c4f5f.js",
+    "main.js": "/adi-kulkarni.in/static/js/main.441dd1e3.js",
     "static/js/964.bb4bad3b.chunk.js": "/adi-kulkarni.in/static/js/964.bb4bad3b.chunk.js",
     "static/js/117.0000714f.chunk.js": "/adi-kulkarni.in/static/js/117.0000714f.chunk.js",
-    "static/js/478.e5cf11f0.chunk.js": "/adi-kulkarni.in/static/js/478.e5cf11f0.chunk.js",
+    "static/js/478.a0dbc43a.chunk.js": "/adi-kulkarni.in/static/js/478.a0dbc43a.chunk.js",
     "static/js/922.579b62f5.chunk.js": "/adi-kulkarni.in/static/js/922.579b62f5.chunk.js",
     "static/js/161.a74432aa.chunk.js": "/adi-kulkarni.in/static/js/161.a74432aa.chunk.js",
     "static/js/104.733e9abb.chunk.js": "/adi-kulkarni.in/static/js/104.733e9abb.chunk.js",
@@ -15,10 +15,10 @@
     "static/js/218.512ec0c3.chunk.js": "/adi-kulkarni.in/static/js/218.512ec0c3.chunk.js",
     "index.html": "/adi-kulkarni.in/index.html",
     "main.8dc9cfff.css.map": "/adi-kulkarni.in/static/css/main.8dc9cfff.css.map",
-    "main.196c4f5f.js.map": "/adi-kulkarni.in/static/js/main.196c4f5f.js.map",
+    "main.441dd1e3.js.map": "/adi-kulkarni.in/static/js/main.441dd1e3.js.map",
     "964.bb4bad3b.chunk.js.map": "/adi-kulkarni.in/static/js/964.bb4bad3b.chunk.js.map",
     "117.0000714f.chunk.js.map": "/adi-kulkarni.in/static/js/117.0000714f.chunk.js.map",
-    "478.e5cf11f0.chunk.js.map": "/adi-kulkarni.in/static/js/478.e5cf11f0.chunk.js.map",
+    "478.a0dbc43a.chunk.js.map": "/adi-kulkarni.in/static/js/478.a0dbc43a.chunk.js.map",
     "922.579b62f5.chunk.js.map": "/adi-kulkarni.in/static/js/922.579b62f5.chunk.js.map",
     "161.a74432aa.chunk.js.map": "/adi-kulkarni.in/static/js/161.a74432aa.chunk.js.map",
     "104.733e9abb.chunk.js.map": "/adi-kulkarni.in/static/js/104.733e9abb.chunk.js.map",
@@ -30,6 +30,6 @@
   },
   "entrypoints": [
     "static/css/main.8dc9cfff.css",
-    "static/js/main.196c4f5f.js"
+    "static/js/main.441dd1e3.js"
   ]
 }
